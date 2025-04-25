@@ -86,11 +86,12 @@ while (1)
 
 
 ## Output  :
-![image](https://github.com/user-attachments/assets/25bad686-7835-43ae-8285-be5ffffe3d12)
+### LED OFF:
+![image](https://github.com/user-attachments/assets/f5a1d001-013f-410e-8453-529cdc807296)
 
- 
-## layout of the circuit 
-![image](https://github.com/user-attachments/assets/7e81130e-94d4-421e-b75f-b55a8067176e)
+### LED ON:
+![image](https://github.com/user-attachments/assets/e7f92a6f-5694-4407-952a-efa7dd49273c)
+
 
  
 ## Result :
